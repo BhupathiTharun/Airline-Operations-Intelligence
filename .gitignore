@@ -11,3 +11,4 @@ data/airline_star_schema/DIM_DEST_AIRPORT.csv
 data/airline_star_schema/DIM_ORIGIN_AIRPORT.csv
 data/airline_star_schema/DIM_WEATHER.csv
 data/airline_star_schema/FACT_FLIGHT_OPERATIONS.csv
+powerbi/Airline-Operations-Intelligence.pdf
