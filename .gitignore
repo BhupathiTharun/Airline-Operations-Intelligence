@@ -12,3 +12,4 @@ data/airline_star_schema/DIM_ORIGIN_AIRPORT.csv
 data/airline_star_schema/DIM_WEATHER.csv
 data/airline_star_schema/FACT_FLIGHT_OPERATIONS.csv
 powerbi/Airline-Operations-Intelligence.pdf
+data/processed/flights_2026_q1_cleaned_sql.csv
