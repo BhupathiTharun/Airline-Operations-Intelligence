@@ -63,5 +63,5 @@ Airline operational teams require a clear understanding of the factors contribut
 ---
 
 ## 👨‍💻 Author
-**Tharun**
+**Bhupathi Tharun**
 *Focus: Data Analytics | Python | SQL | Power BI | Operational Intelligence*
